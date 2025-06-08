@@ -1,0 +1,12 @@
+#Cố định 
+Nhiệt độ cảm nhận trung bình 1 - tất cả trạm
+Nhiệt độ cảm nhận cực đại 1 - tất cả trạm
+
+Tương quan nhiệt độ cảm nhận trung bình 1 - tất cả trạm
+Tương quan nhiệt độ cảm nhận cực đại 1 - tất cả trạm
+
+#Không có - cố định
+Phân tích xu hướng biến đổi theo năm 1 - 1 trạm
+
+#Có ATmean - ATmax
+Phân tích xu hương biến đổi theo tháng 2 - 1 trạm
